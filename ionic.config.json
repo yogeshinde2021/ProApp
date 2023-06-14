@@ -1,0 +1,7 @@
+{
+  "name": "ProApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
