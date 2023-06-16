@@ -1,0 +1,7 @@
+{
+  "appId": "com.example.ProApp",
+  "appName": "ProApp",
+  "webDir": "build",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#FFFFFF"
+}

@@ -1,7 +1,5 @@
 {
   "name": "ProApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "react-vite"
+  "integrations": {},
+  "type": "react"
 }
