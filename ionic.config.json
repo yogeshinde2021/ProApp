@@ -1,5 +1,15 @@
 {
   "name": "ProApp",
-  "integrations": {},
+  "integrations": {
+    "enterprise": {
+      "keyId": 14147,
+      "productKey": "key_25ac119b2010483ab4051820d2fb933a",
+      "appId": "15f642bd",
+      "orgId": "328145ca-d534-4f0b-94b9-ea9e6d58bd50",
+      "registries": [
+        "@ionic-enterprise;https://registry.ionicframework.com/"
+      ]
+    }
+  },
   "type": "react"
 }
